@@ -1,6 +1,6 @@
 package Static;
-
-public class StaticBlock {
+public class StaticBlock 
+{
 	static
 	{
 		System.out.println("Static Block");
